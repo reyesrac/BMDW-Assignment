@@ -1,0 +1,11 @@
+phenotype_1,phenotype_2,correlation
+Phenotype_B,Phenotype_C,0.7361733299514867
+Phenotype_A,Phenotype_C,0.17605084471508198
+Phenotype_C,Phenotype_D,0.13179748471350256
+Phenotype_A,Phenotype_B,0.02809757230312795
+Phenotype_A,Phenotype_D,0.022728961918938112
+Phenotype_B,Phenotype_D,-0.04755275141944329
+Phenotype_D,Phenotype_E,-0.11801092032360302
+Phenotype_A,Phenotype_E,-0.17505676911044604
+Phenotype_B,Phenotype_E,-0.4553602517229919
+Phenotype_C,Phenotype_E,-0.4708521146549238
